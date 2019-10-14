@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "408732397531",
+    "firebase_url": "https://adminaptitude.firebaseio.com",
+    "project_id": "adminaptitude",
+    "storage_bucket": "adminaptitude.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408732397531:android:705b042d22516586be01fe",
+        "android_client_info": {
+          "package_name": "com.example.adminaptitude"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408732397531-2ro94cjnum612advvhqc2vinhbj9vcjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminaptitude",
+            "certificate_hash": "28d80850c89aa7f827bc32c8481c2b2ad01f187c"
+          }
+        },
+        {
+          "client_id": "408732397531-rb8fi1ppbqms3sm3l7ereo3do3et4vqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8PRfaeD18bc5Ga-TUWJq7Z-TC6YoN0C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408732397531-rb8fi1ppbqms3sm3l7ereo3do3et4vqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
